@@ -1,0 +1,12 @@
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/bin/Debug/netcoreapp3.1/CasinoDiceRoller.deps.json
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/bin/Debug/netcoreapp3.1/CasinoDiceRoller.runtimeconfig.json
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/bin/Debug/netcoreapp3.1/CasinoDiceRoller.runtimeconfig.dev.json
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/bin/Debug/netcoreapp3.1/CasinoDiceRoller.dll
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/bin/Debug/netcoreapp3.1/CasinoDiceRoller.pdb
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.csprojAssemblyReference.cache
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.AssemblyInfoInputs.cache
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.AssemblyInfo.cs
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.csproj.CoreCompileInputs.cache
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.dll
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.pdb
+/Users/kevinjacksonii/Projects/CasinoDiceRoller/CasinoDiceRoller/obj/Debug/netcoreapp3.1/CasinoDiceRoller.genruntimeconfig.cache
